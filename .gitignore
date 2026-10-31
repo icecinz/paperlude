@@ -4,6 +4,7 @@ __pycache__/
 .pytest_cache/
 .venv/
 .runtime/
+.runtime
 .uv-cache/
 outputs/
 examples/giraffe/source.mov
