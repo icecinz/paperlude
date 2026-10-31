@@ -1,0 +1,9 @@
+{
+  "sam2_repository": "https://github.com/facebookresearch/sam2.git",
+  "sam2_commit": "2b90b9f5ceec907a1c18123530e92e794ad901a4",
+  "model_url": "https://dl.fbaipublicfiles.com/segment_anything_2/092824/sam2.1_hiera_small.pt",
+  "model_sha256": "6d1aa6f30de5c92224f8172114de081d104bbd23dd9dc5c58996f0cad5dc4d38",
+  "model_filename": "sam2.1_hiera_small.pt",
+  "tested_python": "3.12.13",
+  "cuda_extension_built": false
+}

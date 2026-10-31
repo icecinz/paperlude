@@ -1,0 +1,23 @@
+{
+  "sample_id": "giraffe-20260713-0121-v2",
+  "scope": "仅绑定此2.052秒长颈鹿案例；核心有固定分辨率/帧率/ROI/选目标提示，新视频须适配",
+  "source": "examples/giraffe/source.mov",
+  "archive": "examples/giraffe/baseline",
+  "runtime": ".runtime",
+  "output_root": "outputs",
+  "fingerprints": "config/giraffe.fingerprints.json",
+  "roi": [
+    1050,
+    600,
+    600,
+    1200
+  ],
+  "media": {
+    "width": 3840,
+    "height": 2160,
+    "fps": "60000/1001",
+    "frames": 123,
+    "duration": 2.05205,
+    "audio_streams": 0
+  }
+}

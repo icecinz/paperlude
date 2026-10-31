@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.runtime/
+.uv-cache/
+outputs/
+examples/giraffe/source.mov
+examples/giraffe/baseline/
+*.pt
+*.npy
+*.zip
+*.tar.gz
+.env
+.env.*
+!.env.example
